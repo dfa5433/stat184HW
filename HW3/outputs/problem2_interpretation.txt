@@ -1,0 +1,7 @@
+Problem 2 interpretation:
+82 library locations were retained.
+The combined 500-meter buffer covers 64.31 square kilometers.
+The combined 1000-meter buffer covers 250.11 square kilometers.
+Overlapping coverage was counted only once.
+Coverage outside the study boundary was included.
+

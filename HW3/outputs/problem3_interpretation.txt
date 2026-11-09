@@ -1,0 +1,10 @@
+Problem 3 interpretation:
+There are 77 community areas.
+82 libraries matched exactly one area.
+0 matched no area, and 0 matched multiple areas.
+The highest count is 3 libraries, found in PORTAGE PARK, HUMBOLDT PARK, AUSTIN, NEAR WEST SIDE, NEW CITY.
+The highest density is in DOUGLAS, with 0.468 libraries per square kilometer.
+Counts show the total facilities in an area, while density adjusts for area size.
+Smaller areas can have higher densities even when they have fewer total libraries.
+The facility and boundary datasets may have different update dates.
+
